@@ -1,5 +1,5 @@
 # liri-node-app
-like siri - the speech interpretation
+like siri - without the speech interpretation
 
 Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
 Give a high-level overview of how the app is organized
