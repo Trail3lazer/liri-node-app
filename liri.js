@@ -9,7 +9,7 @@ var spotify = new Spotify(keys.spotify);
 
 //----------BONUS---------//
 var write = (data) => {
-  fs.appendFile('log.txt', data, function(err, result) {if (err){console.log(err)}; console.log(result);})
+  fs.appendFile('log.txt', data, function(err, result) {if (err){console.log(err)};})
 }
 //----------BONUS---------//
 
