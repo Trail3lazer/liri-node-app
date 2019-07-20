@@ -12,7 +12,7 @@ Liri is a basic search engine for music, artists, and concerts.
 Liri functions off of key word inputs to search for music, artists, and concerts.
 Open the index in node.js and follow the instructions.
 
-![Node Call]('assets\images\Node Call.png')
+![Node Call](assets\images\Node Call.png)
 
 
 https://trail3lazer.github.io/liri-node-app/
