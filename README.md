@@ -10,8 +10,17 @@ Liri is a basic search engine for music, artists, and concerts.
 - random.txt === default arguments
 
 Liri functions off of key word inputs to search for music, artists, and concerts.
+Open the index in node.js and follow the instructions.
 
-Include screenshots, gifs or videos of the app functioning
-Contain a link to a deployed version of the app
-Clearly list the technologies used in the app
-State your role in the app development
+
+
+
+https://trail3lazer.github.io/liri-node-app/
+
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "inquirer": "^6.5.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
