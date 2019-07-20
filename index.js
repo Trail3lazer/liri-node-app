@@ -111,4 +111,17 @@ var liri = (arg2, arg3) => {
   };
 }
 
-liri(process.argv[2],process.argv[3])
+inquirer.prompt([{
+  type: "list",
+  message: "What liri service would you like to use?",
+  choices: ["concert-this","spotify-this-song","movie-this","do-what-it-says"],
+  name: "arg2"
+},
+{
+  type: "input",
+  message: "Search Parameter",
+  name: 'arg3',
+  default: "I Want it That Way"
+}
+]).then((object)=>{liri(object['arg2'],object['arg3'])})
+
