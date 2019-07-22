@@ -12,12 +12,12 @@ Liri is a basic search engine for music, artists, and concerts.
 Liri functions off of key word inputs to search for music, artists, and concerts.
 Open the index in node.js and follow the instructions.
 
-![Node Call](assets\images\Node-Call.png)
+![Node Call](assets/images/Node-Call.png)
 ![Consert This](assets/images/concert-this.png)
-![Search Song](assets\images\spotify-this-song.png)
-![Search Movie](assets\images\Movie-this.png)
-![Use random.txt](assets\images\do-what-it-says.png)
-![Search log](assets\images\log.png)
+![Search Song](assets/images/spotify-this-song.png)
+![Search Movie](assets/images/Movie-this.png)
+![Use random.txt](assets/images/do-what-it-says.png)
+![Search log](assets/images/log.png)
 
 
 https://trail3lazer.github.io/liri-node-app/
